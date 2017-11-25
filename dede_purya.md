@@ -26,10 +26,10 @@ akabimufashamo bya rwana.  Shema arataguza n’inkono imuruta ku mutwe ahamagara
 nyina.
 
 Shema:
-> Mama, mama ? Maaaaaaaaaaaama ? Ndashaka kujya : Ndashaka kujya iki ku isahane ?
-> Ahubwo teka ku isahane, isahane yo guteka, ngiye gushaka ikiyiko cyo kujya !
+> Mama, mama? Maaaaaaaaaaaama? Ndashaka kujya: Ndashaka kujya iki ku isahane?
+> Ahubwo teka ku isahane, isahane yo guteka, ngiye gushaka ikiyiko cyo kujya!
 
-(Agende amuhobere maze inkono yiture hasi!)
+Agende amuhobere maze inkono yiture hasi!
 
 Dede:
 > Mpore, mpore Shema yanje ntugasitare! Mpore uwo ishema rishengura, umwanzi
@@ -89,13 +89,13 @@ Dede:
 
 Ahuhe mu mbabura kugira ngo umwana arebe.
 
-Shema:
-> (Agerageze kwatsa maze bimunanire n’uko nyina amwakire).  Noneho umuliro uratse
-> pe ! Turatetse rero bigiye gusha. Washizemo inyama mu makara ? Ndashonje.
-> Tugiye kujya pe ! Kujyaaaa, kujyaaaaa, kujyaaaa inyama !  (Ibyo akabivuga
-> yidegembya, asa n’uririmba).
+Agerageze kwatsa maze bimunanire n’uko nyina amwakire
 
-Dede:
+Shema:
+> Noneho umuliro uratse pe! Turatetse rero bigiye gusha. Washizemo inyama mu
+> makara ? Ndashonje. Tugiye kujya pe! Kujyaaaa, kujyaaaaa, kujyaaaa inyama! 
+
+Dede ( Ibyo akabivuga yidegembya, asa n’uririmba. ):
 > Zana igitunguru n’inyanya. Urarya urusenda?
 
 Shema:
@@ -126,8 +126,9 @@ Maze ahungize imbabura yake bateke bishye
 Sheme abyina cyane ndetse anaririmba
 Shema:
 > Birahiye? Birahiye kandi birajyoshe! Ngiye
-> kujya inyama, mama we?  (Yiruke azane isahane) Inyama zahiye, mama yatetse
-> kandi ibishimbo simbishaka. Imboga ntazo nshaka.
+> kujya inyama, mama we?
+Yiruke azane isahane 
+> Inyama zahiye, mama yatetse kandi ibishimbo simbishaka. Imboga ntazo nshaka.
  
 ### Icyiciro cya gatatu ( Kurya )
 
@@ -137,17 +138,18 @@ Dede:
 > Reka mbanze ngushyirireho ibishyimbo
 > maze nze gukurikizaho inyama, ni byo biryoha!
 
+Shema yikunguze bicike ndetse yirize ariko nyina akomeze. Abanze amuhe agashitu
+k’inyama avanze n’ibishyimbo, atamire akanyama konyine ibishyimbo abicire.
 Shema:
-> Ibishimbo ndabyanga simbishaka. (Yikunguze bicike ndetse yirize ariko nyina
-> akomeze. Abanze amuhe agashitu k’inyama avanze n’ibishyimbo, atamire akanyama
-> konyine ibishyimbo abicire.)
+> Ibishimbo ndabyanga simbishaka.
+
+Shema amufate amuterure,yongere amushyire hasi nawe arakare cyane, amuhe
+ibishyimbo ku kiyiko undi abyimbye amazru
 
 Dede:
-> Ugize ibiki? Urongera ndagukubita!  (Amufate amuterure,yongere amushyire hasi
-> nawe arakare cyane, amuhe ibishyimbo ku kiyiko undi abyimbye amazru).  Ubu se
-> ndagira nte ? Nutarya ibishyimbo nta kindi nguha ! Ndetse inyama ngiye
-> kuzibika ; nta n’izo nzongera guteka. Wumvise?Urandushya cyane, umaze kumaramo
-> umwuka !
+> Ugize ibiki? Urongera ndagukubita! Ubu se ndagira nte? Nutarya ibishyimbo
+> nta kindi nguha ! Ndetse inyama ngiye kuzibika; nta n’izo nzongera guteka.
+> Wumvise? Urandushya cyane, umaze kumaramo umwuka!
 
 Shema arire cyane atere nyina ubwoba ndetse yahagire ashake kubura umwka.
 Shema:
@@ -167,9 +169,9 @@ Shema:
 
 Dede yihanagura amalira mbese yajongowe, yabuze amajyo.
 
-Dede:
+Dede (Akoraho):
 > Mbigize nte se Mana y’iRwanda! Ubu se njye kwa muganga? Kibondo cyanjye
-> ihorere, mu nda harakira! (Akoraho). Ni aha cyangwa ni aha?
+> ihorere, mu nda harakira! . Ni aha cyangwa ni aha?
 
 Shema:
 > Oya ni hepfo nako ni haruguru! Noneho ibishyimbo biranjya no mu maguru! No mu
@@ -179,8 +181,8 @@ Yerekana muri Mugabuzi.
 
 Dede ase n’useka ariko ababaye.
 
-Dede:
-> Urumva se utakibabara ? (Amukorakoere). Ntabwo hakikurya? Cyangwa wakize? Niba
+Dede (Amukorakoere):
+> Urumva se utakibabara? Ntabwo hakikurya? Cyangwa wakize? Niba
 > wakize seka ndebe!
 
 Shema:
