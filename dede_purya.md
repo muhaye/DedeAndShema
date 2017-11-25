@@ -11,8 +11,8 @@ cyane mu bijyanye no kumugaburira. Murabona rero ko umwana ni nyina
 * Shema
 * Dede
 
-![Shema](/Assets/Dede.png)
-Format: ![Alt Text](url)
+![Dede](/Assets/Dede.png)
+![Shema](/Assets/Schema.png)
 
 Shema ni umwana uri mu kigero cy’imyaka itanu. Ntaramenya kuvuga neza ariko iyo
 avuze ashyiraho umwete.
