@@ -1,10 +1,11 @@
+# Shema
 
-#### Shema
-
+*
 Shema ni umukino mu byiciro bitatu. 
 Ikigaragamo ni ukuntu umwana arushya nyina bibyawe n’ubwana, 
-atari ubushake. Umukino rero uragaragaza ukuntu umwana aburabuza nyina cyane
-cyane mu bijyanye no kumugaburira. Murabona rero ko umwana ni nyina 
+atari ubushake. Umukino rero uragaragaza ukuntu umwana aburabuza
+nyina cyane cyane mu bijyanye no kumugaburira. Murabona rero ko umwana ni nyina 
+*
 
 ### Abakinnyi
 
@@ -196,3 +197,6 @@ Dede:
 Shema:
 > Na maman ntarira kuko atari umwana!
 
+#### Contributor:
+* Evariste Nsabimana
+* Ngendo Muhayimana
