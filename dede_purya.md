@@ -21,7 +21,7 @@ Lyagombe.*
 
 ### Icyiciro cya mbere (Kwegeranya ibyo guteka)
 
-Igihe cyo kurya kiregereje ; Dede aregereranya ibyangombwa ariko umuhungu we
+Igihe cyo kurya kiregereje; Dede aregereranya ibyangombwa ariko umuhungu we
 akabimufashamo bya rwana.  Karisa arataguza n’inkono imuruta ku mutwe ahamagara
 nyina.
 
@@ -125,11 +125,14 @@ Dede:
 Maze ahungize imbabura yake bateke bishye
 
 Sheme abyina cyane ndetse anaririmba
+
 Karisa:
 > Birahiye? Birahiye kandi birajyoshe! Ngiye
 > kujya inyama, mama we?
+
 Yiruke azane isahane 
-> Inyama zahiye, mama yatetse kandi ibishimbo simbishaka. Imboga ntazo nshaka.
+
+> Inyama zahiye, dede yatetse kandi ibishimbo simbishaka. Imboga ntazo nshaka.
 
 ### Icyiciro cya gatatu ( Kurya )
 
@@ -141,18 +144,19 @@ Dede:
 
 Karisa yikunguze bicike ndetse yirize ariko nyina akomeze. Abanze amuhe agashitu
 k’inyama avanze n’ibishyimbo, atamire akanyama konyine ibishyimbo abicire.
+
 Karisa:
 > Ibishimbo ndabyanga simbishaka.
 
-Karisa amufate amuterure,yongere amushyire hasi nawe arakare cyane, amuhe
+Karisa amufate amuterure, yongere amushyire hasi nawe arakare cyane, amuhe
 ibishyimbo ku kiyiko undi abyimbye amazru
 
 Dede:
-> Ugize ibiki? Urongera ndagukubita! Ubu se ndagira nte? Nutarya ibishyimbo
+> Ugize ibiki? Urongera ndakuryana kuryama! Urashaka kuryama? Ubu se ndagira nte? Nutarya ibishyimbo
 > nta kindi nguha! Ndetse inyama ngiye kuzibika; nta n’izo nzongera guteka.
 > Wumvise? Urandushya cyane, umaze kumaramo umwuka!
 
-Karisa arire cyane atere nyina ubwoba ndetse yahagire ashake kubura umwka.
+Karisa arire cyane atere nyina ubwoba ndetse yahagire ashake kubura umwuka.
 Karisa:
 > Sinshaka kujya; nzajya ejo mu gitondo! Ahahahaha!
 
