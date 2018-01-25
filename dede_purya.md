@@ -1,41 +1,41 @@
-# Shema
+# Karisa
 
-*Shema ni umukino mu byiciro bitatu. 
+*Karisa ni umukino mu byiciro bitatu. 
 Ikigaragamo ni ukuntu umwana arushya nyina bibyawe n’ubwana, 
 atari ubushake. Umukino rero uragaragaza ukuntu umwana aburabuza
 nyina cyane cyane mu bijyanye no kumugaburira. Murabona rero ko umwana ni nyina*
 
 ### Abakinnyi
 
-* Shema
+* Karisa
 * Dede
 
 ![Dede](/Assets/Dede.png)
-![Shema](/Assets/Schema.png)
+![Karisa](/Assets/Schema.png)
 
-*Shema ni umwana uri mu kigero cy’imyaka itanu. Ntaramenya kuvuga neza ariko iyo
+*Karisa ni umwana uri mu kigero cy’imyaka itanu. Ntaramenya kuvuga neza ariko iyo
 avuze ashyiraho umwete.*
 
-Dede ni nyina wa Shema; aba yugumbira umwana we aka ya mandwa yugumbira
+Dede ni nyina wa Karisa; aba yugumbira umwana we aka ya mandwa yugumbira
 Lyagombe.*
 
 ### Icyiciro cya mbere (Kwegeranya ibyo guteka)
 
 Igihe cyo kurya kiregereje ; Dede aregereranya ibyangombwa ariko umuhungu we
-akabimufashamo bya rwana.  Shema arataguza n’inkono imuruta ku mutwe ahamagara
+akabimufashamo bya rwana.  Karisa arataguza n’inkono imuruta ku mutwe ahamagara
 nyina.
 
-Shema:
-> Mama, mama? Maaaaaaaaaaaama? Ndashaka kujya: Ndashaka kujya iki ku isahane?
+Karisa:
+> Dede, Dede? Dedeeeeeeeeee? Ndashaka kujya: Ndashaka kujya iki ku isahane?
 > Ahubwo teka ku isahane, isahane yo guteka, ngiye gushaka ikiyiko cyo kujya!
 
 Agende amuhobere maze inkono yiture hasi!
 
 Dede:
-> Mpore, mpore Shema yanje ntugasitare! Mpore uwo ishema rishengura, umwanzi
+> Mpore, mpore Karisa yanje ntugasitare! Mpore uwo ishema rishengura, umwanzi
 > ukwanga ntakabyare! Arakameza urwiri mu kigega, ntagapfe ntagakire!
 
-Shema:
+Karisa:
 > Umanzi ni nde? Ugiye guteka umanzi? Ntabwo ndikujya umanzi, simushaka niba ari
 > imboga! Ahubwo isafulira yo guteka inyama nayizanye!
 
@@ -43,21 +43,21 @@ Dede:
 > Ngiye guteka n’ibishyimbo maze ndiburireho utubwija usange ari uruyoragurane.
 > Urarushywa no kwasama gusa!
 
-Shema:
+Karisa:
 > Nasamira ubusa ni iki? Njyewe kujya inyama gusa; kwasama si byiza, nta gukunda
 > imboga! Ibishimbo si byiza! Teka, teka inyama, umanzi simukunda, ntajyoha!
 
 ### Icyiciro cya kabiri ( Guteka )
 
-(Dede agiye gushaka amakara ariko umuhungu we amwomeho.Bafatanye kuyayora, mu
+(Dede agiye gushaka amakara ariko umuhungu we amwomeho. Bafatanye kuyayora, mu
 gihe nyina arebye hirya gato umwana ayikubitemo ahinduke
-akavurivundi.Namukebuka ahite atangara anaseka cyane!)
+akavurivundi. Namukebuka ahite atangara anaseka cyane!)
 
 Dede:
-> Shema wigize ibiki? Ntureba uko usa? Wahindutse umukara nk’inkono iteka!
+> Karisa wigize ibiki? Ntureba uko usa? Wahindutse umukara nk’inkono iteka!
 
-Shema: 
-> Ni inkono iteka inyama? Ni amakara? Nabaye amakra data weeeeeeeeeeeeeeeeeee!
+Karisa: 
+> Ni inkono iteka inyama? Ni amakara? Nabaye amakara data weeeeeeeeeeeeeeeeeee!
 > Nabaye miza cane ariko si ndi umanzi kuko umanzi simushaka! Se umanzi nawe
 > arateka? Ariko ntateka inyama!
 
@@ -66,7 +66,7 @@ ariko arusheho kwibyirongo
 Dede:
 > Reka nguhanagure! Ngutunganye ube mwiza!
 
-Shema:
+Karisa:
 > Mbaye miza pe! Ndigusa gute? Ahubwo meze nk’ibabura! Kandi ni nziza cane!
 
 (Dede ashyire amakara mu mbabura maze afate ikibiriti kugira ngo arase acane
@@ -76,11 +76,11 @@ Dede:
 > Ngaho gifate umaze urase ucane imbabura. Rasa se turebe, ntabwo ubizi, zana
 > nkwereke. 
 
-Kurasa biramunanira noneho ikibiriti nyina akimwake abe ariw urasa.
+Kurasa biramunanira noneho ikibiriti nyina akimwake abe ariwe urasa.
 
 Atsa rero! Atsa, atsa cyane. Huha, huha.
 
-Shema:
+Karisa:
 > Kwaca ni gute? Ni uguhuha se? Noneho huha ndebe!
 
 Dede:
@@ -92,27 +92,27 @@ Ahuhe mu mbabura kugira ngo umwana arebe.
 
 Agerageze kwatsa maze bimunanire n’uko nyina amwakire
 
-Shema:
+Karisa:
 > Noneho umuliro uratse pe! Turatetse rero bigiye gusha. Washizemo inyama mu
 > makara? Ndashonje. Tugiye kujya pe! Kujyaaaa, kujyaaaaa, kujyaaaa inyama! 
 
-Dede ( Ibyo akabivuga yidegembya, asa n’uririmba. ):
+Dede (Ibyo akabivuga yidegembya, asa n’uririmba.):
 > Zana igitunguru n’inyanya. Urarya urusenda?
 
-Shema:
+Karisa:
 > Oya, oya urusenda rurandya! Ndarurya rukandumagura. Urusenda sinshaka,
 > ndashaka amamesa yo gukaranga! Kugira ngo bivuge! Kandi koko biravuga! 
 
-Shema azane ibitari ibyo nyina amutumye ariko nyina abyakire
+Karisa azane ibitari ibyo nyina amutumye ariko nyina abyakire
 
 Dede:
 > Ubaye nka wawundi batuma amazi akaza inzoga! Ngutumye igitunguru n’inyanya none
 > dore uzanye amacupa. Zana kariya gakoko kugira ngo duhungize maze imbabura
 > ifatwe neza.
 
-Shema yiruke azane agakoko maze akarambike ku mbabura
+Karisa yiruke azane gakoko maze akarambike ku mbabura
 
-Shema:
+Karisa:
 > Nakazanye pe! Kagiye gusha ariko. Kariguhungira! Ntureba!
 
 Dede Afate ka gakoko
@@ -125,7 +125,7 @@ Dede:
 Maze ahungize imbabura yake bateke bishye
 
 Sheme abyina cyane ndetse anaririmba
-Shema:
+Karisa:
 > Birahiye? Birahiye kandi birajyoshe! Ngiye
 > kujya inyama, mama we?
 Yiruke azane isahane 
@@ -139,12 +139,12 @@ Dede:
 > Reka mbanze ngushyirireho ibishyimbo
 > maze nze gukurikizaho inyama, ni byo biryoha!
 
-Shema yikunguze bicike ndetse yirize ariko nyina akomeze. Abanze amuhe agashitu
+Karisa yikunguze bicike ndetse yirize ariko nyina akomeze. Abanze amuhe agashitu
 k’inyama avanze n’ibishyimbo, atamire akanyama konyine ibishyimbo abicire.
-Shema:
+Karisa:
 > Ibishimbo ndabyanga simbishaka.
 
-Shema amufate amuterure,yongere amushyire hasi nawe arakare cyane, amuhe
+Karisa amufate amuterure,yongere amushyire hasi nawe arakare cyane, amuhe
 ibishyimbo ku kiyiko undi abyimbye amazru
 
 Dede:
@@ -152,8 +152,8 @@ Dede:
 > nta kindi nguha! Ndetse inyama ngiye kuzibika; nta n’izo nzongera guteka.
 > Wumvise? Urandushya cyane, umaze kumaramo umwuka!
 
-Shema arire cyane atere nyina ubwoba ndetse yahagire ashake kubura umwka.
-Shema:
+Karisa arire cyane atere nyina ubwoba ndetse yahagire ashake kubura umwka.
+Karisa:
 > Sinshaka kujya; nzajya ejo mu gitondo! Ahahahaha!
 
 Dede:
@@ -161,7 +161,7 @@ Dede:
 > n’udushyimbo duke. Inyama zonyine zakwica. Iyo umuntu ariye inyama gusa ararwara
 > ndetse agapfa.
 
-Shema:
+Karisa:
 > Ntabwo nzapfa ninjya inyama gusa. Ahubwo abatajya inyama barapfa; ntiwambwiye
 > ngo inyama zivura bwaki!
 
@@ -174,7 +174,7 @@ Dede (Akoraho):
 > Mbigize nte se Mana y’iRwanda! Ubu se njye kwa muganga? Kibondo cyanjye
 > ihorere, mu nda harakira! Ni aha cyangwa ni aha?
 
-Shema:
+Karisa:
 > Oya ni hepfo nako ni haruguru! Noneho ibishyimbo biranjya no mu maguru! No mu
 > ijosi hose. Ijosi se si aha?
 Yerekana muri Mugabuzi. 
@@ -186,7 +186,7 @@ Dede (Amukorakoere):
 > Urumva se utakibabara? Ntabwo hakikurya? Cyangwa wakize? Niba
 > wakize seka ndebe!
 
-Shema:
+Karisa:
 > Nakize ahubwo mpa inyama n’ibishyimbo. Ariko ntiwongere kurira. Kurira ni
 > abana. Mama ntarira. Niwongera na njye ndarira cyane.
 
@@ -195,7 +195,7 @@ Dede amugaburire undi arye neza yishimye aseka cyane
 Dede:
 > Ntubona ko uri akagabo? Nta mugabo urira!
 
-Shema:
+Karisa:
 > Na maman ntarira kuko atari umwana!
 
 #### Contributor:
